@@ -1,0 +1,35 @@
+/*
+estilo body
+*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/*
+estilo de la capa primero
+*/
+.Primero {
+    font-size: 40px;
+    background-color: black;
+}
+
+/*estilo de titulo*/
+h1 {
+    color: crimson;
+    font-size: 4rem;
+}
+
+/*estilo del parrafo*/
+p {
+    color: white;
+    font-size: 1.5rem;
+    border: 10px solid firebrick
+}
+a{color: chocolate;}
+
+.box{width: 50%;
+    height: 200px;
+background-color: blueviolet;
+font-size: 3rem;}
